@@ -25,13 +25,16 @@ There are five parts of key technology.
 <img src="ACSP_10.png" alt="Image Description" >
 
 ### Central Task Scheduling System - Communication Development
-
-
-### Computer Vision - Lane Line Detection
-
-
+<img src="ACSP_11.png" alt="Image Description">
 
 ### Computer Vision - Traffic Light and Aruco Code Recognition
+<img src="ACSP_12.png" alt="Image Description">
+<video width="640" height="360" controls>
+  <source src="./redgreen.mp4" type="video/mp4">
+  123
+</video>
 
+### Computer Vision - Lane Line Detection
+<img src="ACSP_14.png" alt="Image Description">
 
 ### Path planning and Navigation
