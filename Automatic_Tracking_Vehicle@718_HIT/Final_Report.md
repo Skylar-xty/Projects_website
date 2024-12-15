@@ -9,6 +9,7 @@ This STM32-based project is under the selection process of 718 laboratory(primar
     <img src="car.jpg" alt="Image Description" width="400" height="300">
 </div>
 
+[Download File](latest.zip)
 
 
 ## (I) Design Concept
