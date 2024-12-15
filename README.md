@@ -4,6 +4,7 @@ Hello!
 
 ## The Automated Guided Vehicle Based On Jetson Nano For Delivery@718-HITWH(2022)
 This project is for the 17th National University Students Intelligent Car Competition.
+
 [Online Selection Test](Intelligent_Car_Competition@718_HIT/Online_Selection_Tasks.md)
 
 [Real Scenario Test in Reginal and National Competition](Intelligent_Car_Competition@718_HIT/National_Competiton.md)
@@ -27,3 +28,6 @@ This project is for the 17th National University Students Intelligent Car Compet
 
 ## Automatic tracking and block grabbing vehicle based on STM32@718-HIT
 [Final Report](Automatic_Tracking_Vehicle@718_HIT/Final_Report.md)
+
+## Design of a Vehicular Network Data Authentication System (undergraduate thesis)
+[Ongoing](CS_Thesis@HIT/Workflow_ongoing.md)
