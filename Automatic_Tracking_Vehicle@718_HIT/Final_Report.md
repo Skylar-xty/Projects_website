@@ -1,4 +1,9 @@
 # Project Report
+This STM32-based project is under the selection process of 718 laboratory(primary team for robotics team) in Nov. 2021.
+- **Developed** a smart car based on the STM32 as the main control board, a power module, and an L298N electric drive module, capable of automatically tracking and remotely retrieving blocks using a robotic arm in specific areas.
+- **Utilized** an infrared photocell and ADC to collect voltage signals and used serial port debugging to identify tracks.
+- **Developed** a tracking and maze algorithm enabling the car to navigate out of unknown maze environments while tracking.
+- **Used** a Bluetooth module with a serial port to achieve remote control of the car and the robotic arm servo.
 
 ## (I) Design Concept
 

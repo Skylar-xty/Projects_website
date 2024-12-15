@@ -29,12 +29,21 @@ There are five parts of key technology.
 
 ### Computer Vision - Traffic Light and Aruco Code Recognition
 <img src="ACSP_12.png" alt="Image Description">
-<video width="640" height="360" controls>
+<video width="640" height="360" controls style="display: block; margin: 20px auto;">
   <source src="./redgreen.mp4" type="video/mp4">
-  123
 </video>
 
 ### Computer Vision - Lane Line Detection
 <img src="ACSP_14.png" alt="Image Description">
+<video width="640" height="360" controls style="display: block; margin: 20px auto;">
+  <source src="./s.mp4" type="video/mp4">
+</video>
 
 ### Path planning and Navigation
+<img src="ACSP_16.png" alt="Image Description">
+
+### Demonstration in Real Scenario
+<img src="ACSP_17.png" alt="Image Description">
+<video width="640" height="360" controls style="display: block; margin: 20px auto;">
+  <source src="./final.MP4" type="video/mp4">
+</video>
