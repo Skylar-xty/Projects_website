@@ -22,3 +22,4 @@ This project is for the 17th National University Students Intelligent Car Compet
 [CS Courses](Courses@HIT/Intro.md)
 
 ## Mathematical Modeling Competitions
+[Documents](Mathematical_Modeling_Competition/intro.md)
