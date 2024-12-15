@@ -1,6 +1,6 @@
 # Projects_website
 
-Hello! 
+Hello!
 
 ## The Automated Guided Vehicle Based On Jetson Nano For Delivery@718-HITWH(2022)
 This project is for the 17th National University Students Intelligent Car Competition.
@@ -9,16 +9,16 @@ This project is for the 17th National University Students Intelligent Car Compet
 
 [Real Scenario Test in Reginal and National Competition](Intelligent_Car_Competition@718_HIT/National_Competiton.md)
 ## Robomaster@HERO-HITWH
-[]
+[Video links](Robomaster@HERO_HIT\Motion_prediction.md)
 ## RA@HITWH
-
+[Mathematic undergrad thesis](RA@HIT\MA_thesis.md)
 ## RA@Berkeley(2024)
 [Connect4](RA@Berkeley/Connect4.md)
 ## RA@Tsinghua 
 [BalloonBot](RA@Tsinghua/BalloonBot.md)
 
-## RA@UofMacau
-[Ongoing...]
+## RA@UofMacau&CHUK
+[Ongoing](RA@UofMacau&CUHK\Ongoing.md)
 
 ## CS courses Projects
 [CS Courses](Courses@HIT/Intro.md)
