@@ -1,4 +1,5 @@
 # Target Tracking and Aiming System in Complex Motion Environment
+This is my sophomore year experience as an algorithm developer at HITWH(H) Excellent(E) Robotics(R) Orgization(O).
 
 ## Videos
 
