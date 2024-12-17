@@ -9,7 +9,7 @@ This project is for the 17th National University Students Intelligent Car Compet
 
 [Real Scenario Test in Reginal and National Competition](Intelligent_Car_Competition@718_HIT/National_Competiton.md)
 ## Robomaster@HERO-HITWH
-[Video links](Robomaster@HERO_HIT/Motion_prediction.md)
+[Video links](Robomaster@HERO_HIT/Motion_prediction_.md)
 ## RA@HITWH
 [Mathematic undergrad thesis](RA@HIT\MA_thesis.md)
 ## RA@Berkeley(2024)
