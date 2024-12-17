@@ -6,10 +6,9 @@ I was an algorithm designer and tester in my university's robotics team, partici
 ### Kalman Filter
 
 <details>
-  <summary>Click to expand the code</summary>
+  <summary>Click to expand the KF code</summary>
 
   <pre><code>
-
     #ifndef HERORM2022_KALMAN_HPP
     #define HERORM2022_KALMAN_HPP
 
@@ -139,12 +138,11 @@ I was an algorithm designer and tester in my university's robotics team, partici
             return X;
 
             }
-      };
-
+      }  
+    
     #endif//HERORM2022_KALMAN_HPP 
-
   </code></pre>
-
+  
 </details> 
 
 ## Videos
