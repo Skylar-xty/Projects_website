@@ -8,7 +8,7 @@ I was an algorithm designer and tester in my university's robotics team, partici
 <details>
   <summary>Click to expand the code</summary>
 
-    ```cpp
+  <pre><code>
 
     #ifndef HERORM2022_KALMAN_HPP
     #define HERORM2022_KALMAN_HPP
@@ -142,8 +142,8 @@ I was an algorithm designer and tester in my university's robotics team, partici
       };
 
     #endif//HERORM2022_KALMAN_HPP 
-    
-    ```
+
+  </code></pre>
 
 </details> 
 
