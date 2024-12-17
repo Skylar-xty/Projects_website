@@ -6,17 +6,19 @@ I was an algorithm designer and tester in my university's robotics team, partici
 ### Kalman Filter
 
 <details>
-<pre><code>
-#ifndef HERORM2022_KALMAN_HPP
-#define HERORM2022_KALMAN_HPP
+    <summary>Click to expand the KF code</summary>
 
-#include "logger.h"
-#include "util_func.h"
-#include <Eigen/Dense>
+```cpp        
+    #ifndef HERORM2022_KALMAN_HPP
+    #define HERORM2022_KALMAN_HPP
 
-template<int V_X, int V_Z>
-class Kalman {
-public:
+    #include "logger.h"
+    #include "util_func.h"
+    #include <Eigen/Dense>
+
+    template<int V_X, int V_Z>
+    class Kalman {
+    public:
     using Matrix_zzd = Eigen::Matrix<double, V_Z, V_Z>;
     using Matrix_xxd = Eigen::Matrix<double, V_X, V_X>;
     using Matrix_zxd = Eigen::Matrix<double, V_Z, V_X>;
@@ -25,7 +27,7 @@ public:
     using Matrix_z1d = Eigen::Matrix<double, V_Z, 1>;
     int64_t last_t{0};// 单位ms
 
-public:
+    public:
     Matrix_x1d X;// k-1时刻的滤波值，即是k-1时刻的值
     Matrix_xzd K;// Kalman增益
     Matrix_xxd A;// 转移矩阵
@@ -34,7 +36,7 @@ public:
     Matrix_zzd R;// 测量噪声偏差，(系统搭建好以后，通过测量统计实验获得)
     Matrix_xxd P;// 估计误差协方差
     double Distance_change{0};
-public:
+    public:
     Kalman()
     {
         A.setIdentity();
@@ -136,15 +138,12 @@ public:
         return X;
 
         }
-}  
+    }  
 
-#endif //HERORM2022_KALMAN_HPP 
-</code></pre>
+    #endif //HERORM2022_KALMAN_HPP 
+```
+    
 </details> 
-
-<!-- </details>  -->
-  <!-- <summary>Click to expand the KF code</summary> -->
-
 
 
 ## Videos
