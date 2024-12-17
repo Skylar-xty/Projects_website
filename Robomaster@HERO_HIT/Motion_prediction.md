@@ -5,12 +5,18 @@ I was an algorithm designer and tester in my university's robotics team, partici
 
 Here are some videos during testing and real performance.
 
+The Figure shows the UI interface of our robots when the target mobile armor was moving in both X, Y directions with different moving speeds.
+Green notations:
+1
 <video width="640" height="360" controls style="display: block; margin: 20px auto;">
   <source src="./test.mp4" type="video/mp4">
+  Fig1: Mobile Armor Plate Recognition, Coordinate Computation, and Tracking UI Interface
 </video>
-aaa
+
+This Figure shows the performance of our robot shooting the outpost (one kind of devices in the competition). The successful rate is 100%.
 <video width="640" height="360" controls style="display: block; margin: 20px auto;">
   <source src="./demo1-1.mp4" type="video/mp4">
+  The performance of the shooting algorithms.
 </video>
 
 bbb
