@@ -1,5 +1,5 @@
 # Balloon Robot
-Due to privacy reasons, the details will be updated after the paper accepted.
+Due to privacy reasons and anonymous principles, the details will be updated after the paper is accepted.
 ## Introduction
 
 
