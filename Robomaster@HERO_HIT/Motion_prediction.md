@@ -5,7 +5,7 @@ During this experience, I
 - Developed a recognition algorithm using OpenCV and Object Detection Algorithms (both traditional method and advanced object detection method) for robust monocular and binocular camera ranging algorithm to track the target using corresponding coordinate conversion strategies (Perspective-n-Points, Bundle Adjustment Optimization, and conversion between different coordinate systems).
 - Designed an object tracking and prediction algorithm based on various Kalman Filter schemes, such as KF, EKF, UKF, and other algorithm fusion. And enriched the strategies to fit different scenes better.
 - Developed the functions of localization, navigation, obstacle avoidance, and others for unmanned control robots based on ROS and information fusion technology with multi-sensors to meet the functional requirements of autonomous movement and decision-making in complex environments.
-- Am responsible for code management, parameter reading and finetuning, self-start script development, communication maintainence, and algorithm testing to ensure system stability and performance.
+- Was responsible for code management, parameter reading and finetuning, self-start script development, communication maintainence, and algorithm testing to ensure system stability and performance.
 
 ## Videos
 
@@ -34,6 +34,7 @@ Green notation meanings:
     - green: the current center
     - red: the predicted center in the future timestep
     - circle: the predicted circle of the landing point of the bullet
+10. white cross-line (on the armor): the aborted target
   
 <video width="640" height="360" controls style="display: block; margin: 20px auto;">
   <source src="./test.mp4" type="video/mp4">
@@ -64,7 +65,7 @@ Below are some of the live streamings of one game in the National Robomaster Fin
 
 <div style="text-align: center;">
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <video width="320" height="240" controls>
+    <video width="480" height="240" controls>
       <source src="./ui1-1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
