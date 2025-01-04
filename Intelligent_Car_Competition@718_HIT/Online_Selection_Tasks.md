@@ -27,7 +27,8 @@
   <source src="./task4-2.mp4" type="video/mp4">
 </video>
 
-<iframe src="hhttps://github.com/Skylar-xty/Projects_website/blob/main/Intelligent_Car_Competition%40718_HIT/task4-report.pdf" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="https://github.com/Skylar-xty/Projects_website/blob/main/Intelligent_Car_Competition%40718_HIT/task4-report.pdf" width="100%" height="600px" style="border:none;"></iframe>
+<a href="task4-report.pdf" target="_blank">View task4 report PDF</a>
 
 ## Task5
 
