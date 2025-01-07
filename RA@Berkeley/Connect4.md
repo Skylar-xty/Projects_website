@@ -5,7 +5,12 @@ Connect4 is a game in which the players choose a color and then take turns dropp
 
 ## Algorithm
 
+I use MiniMax algorithm for the AI agent.
 
 
 ## Results
-Because there exists a solved conclusion which is the first-player-
+Because there exists a solved conclusion which is the first-player-win circumstance, so we switched the game to the four-in-a-row game which has bigger action space.
+
+The game contains two parts. First one is human-AI full game and the second one asks the player to choose between two potential moves. Moves of the players will be collected to Firebase.
+
+Please refer to [Game: four-in-a-row](https://test1-2c630.firebaseapp.com/) for more details.
