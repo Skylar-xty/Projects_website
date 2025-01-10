@@ -1,5 +1,6 @@
 # Target Tracking and Aiming System in Complex Motion Environment
-I was an algorithm designer and tester in my university's robotics team, participating in Robomaster University Championships Competition (organized by Dajiang Innovation), progressing from provincial and regional competitions to the national finals.
+I was an algorithm designer and tester in my university's robotics team, participating in [Robomaster University Championships Competition](https://robomaster.com/en-US) (organized by Dajiang Innovation), progressing from provincial and regional competitions to the national finals.
+
 
 During this experience, I 
 - Developed a recognition algorithm using OpenCV and Object Detection Algorithms (both traditional method and advanced object detection method) for robust monocular and binocular camera ranging algorithm to track the target using corresponding coordinate conversion strategies (Perspective-n-Points, Bundle Adjustment Optimization, and conversion between different coordinate systems).
