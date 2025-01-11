@@ -9,6 +9,7 @@ characteristics and relevant literature background.
 - Collected and analyzed user feedback through interviews(N=33), applying structured coding to refine functions.
 - 
 - Led the writing of a research paper that passed the first-round review for CHI ’25 as the first student author
+
 <video width="640" height="360" controls style="display: block; margin: 20px auto;">
   <source src="./chi25-sub-i14.mp4" type="video/mp4">
   Submitted demo video.

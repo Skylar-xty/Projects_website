@@ -138,6 +138,10 @@ Later (during an overnight debugging session before the competition), two additi
 
 These enhancements made the tracking function more **stable** and less prone to deviating from the line.
 
+<video width="640" height="360" controls style="display: block; margin: 20px auto;">
+  <source src="./maze.mp4" type="video/mp4">
+  a simple demo
+</video>
 
 ---
 
