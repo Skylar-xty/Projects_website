@@ -1,7 +1,7 @@
 # Connect4
 Connect4 is a game in which the players choose a color and then take turns dropping colored tokens into a six-row, seven-column vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own tokens. It's a zero-sum game, and could be solved by artificial algorithms like minimax with alpha-beta pruning.
 ## Introduction
-I was an undergraduate research assistant in the [CognAc Lab]() at UC, Berkeley, and assisted the Postdoctoral Fellow in designing cognitive neuroscience experiments, focusing on the social and nonsocial behaviors of patients with cerebellar degeneration.
+I was an undergraduate research assistant in the [CognAc Lab](https://ivrylab.berkeley.edu/) at UC, Berkeley, and assisted the Postdoctoral Fellow in designing cognitive neuroscience experiments, focusing on the social and nonsocial behaviors of patients with cerebellar degeneration.
 
 I
 - Implemented several experiments and interactive tasks using JavaScript, PsychoPy, and Firebase, incorporating
