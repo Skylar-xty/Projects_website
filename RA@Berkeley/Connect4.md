@@ -19,6 +19,6 @@ Please refer to [Game: four-in-a-row](https://test1-2c630.firebaseapp.com/) for 
 I modified the inverse binomial sampling methods referred from the work [Unbiased and efficient log-likelihood estimation with inverse binomial sampling](https://pubmed.ncbi.nlm.nih.gov/33362195/) for parameter estimation in our model using Google Cloud and Slurm for calculation.
 
 ## Final Pre
-Please refer to [Cerebellum and planning depth in gameplay](https://github.com/Skylar-xty/Projects_website/blob/main/RA%40Berkeley/Cerebellum%20and%20planning%20depth%20in%20gameplay.pdf).
+Please refer to [Cerebellum and planning depth in gameplay](https://github.com/Skylar-xty/Projects_website/blob/main/RA%40Berkeley/Cerebellum_and_planning_depth_in_gameplay.pdf).
 
 ## Moreover
