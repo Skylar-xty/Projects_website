@@ -7,13 +7,7 @@ by ESP32S3, based on comprehensive research and user needs analysis in human-rob
 - Proposed downstream applications, with LLM and object detection algorithms, targeting balloon robot
 characteristics and relevant literature background.
 - Collected and analyzed user feedback through interviews(N=33), applying structured coding to refine functions.
-<<<<<<< HEAD
-- 
 - Led the writing of a research paper that passed the first-round review for CHI ’25 as the first student author
-=======
-- Led the writing of a research paper that passed the first-round review for CHI ’25 as the first student author.
-
->>>>>>> 1eb893c70dc48a78fe9626fd6b7e9ae7f7445246
 
 <video width="640" height="360" controls style="display: block; margin: 20px auto;">
   <source src="./chi25-sub-i14.mp4" type="video/mp4">  
