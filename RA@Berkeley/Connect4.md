@@ -14,3 +14,8 @@ Because there exists a solved conclusion which is the first-player-win circumsta
 The game contains two parts. First one is human-AI full game and the second one asks the player to choose between two potential moves. Moves of the players will be collected to Firebase.
 
 Please refer to [Game: four-in-a-row](https://test1-2c630.firebaseapp.com/) for more details.
+
+## Parameter Estimation
+I modified the inverse binomial sampling methods referred from the work [Unbiased and efficient log-likelihood estimation with inverse binomial sampling](https://pubmed.ncbi.nlm.nih.gov/33362195/) for parameter estimation in our model using Google Cloud and Slurm for calculation.
+
+## Moreover
