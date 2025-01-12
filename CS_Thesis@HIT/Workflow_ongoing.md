@@ -14,6 +14,8 @@ Based on elliptic curve cryptography for public key encryption and digital signa
 2. Trust Management Layer
 Based on the vehicle's historical behavior and communication records, the trust value of the vehicle is dynamically adjusted. Nodes with low trust values are automatically isolated to reduce the risk of malicious data propagation.
 
+## Proposal
+[Proposal(in Chinese)](https://github.com/Skylar-xty/Projects_website/blob/main/CS_Thesis%40HIT/Proposal-CS.pdf)
 
 ## Code Repo
 The project is ongoing and please refer to [CS_Thesis](https://github.com/Skylar-xty/CS_Thesis) for the current development.
