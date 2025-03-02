@@ -1,6 +1,6 @@
 # Projects_website
 
-Hello!
+Hello! My brief [portfolio](./Portfolio.pdf) is here.
 
 ## The Automated Guided Vehicle Based On Jetson Nano For Delivery@718-HITWH(2022)
 This project is for the 17th National University Students Intelligent Car Competition.
